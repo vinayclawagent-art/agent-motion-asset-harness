@@ -26,6 +26,7 @@ Text-to-Lottie makes motion assets a constrained agent output instead of vague d
 - Infographic: [[Agent Motion Asset Harness/Agent Motion Asset Pipeline.svg]]
 - Skill draft: [[Agent Motion Asset Harness/SKILL]]
 - Improvement loop: [[Agent Motion Asset Harness Loop]]
+- Promotion gate: [[Agent Motion Asset Harness/Post-Trial Promotion Decision Card]]
 
 ## Prototype brief
 A dependency-free HTML builder that turns a product moment into a copyable Lottie generation brief and review rubric.
@@ -42,8 +43,10 @@ https://github.com/vinayclawagent-art/agent-motion-asset-harness
 ## Improvement backlog
 - Run one real VinClawLabs task through the packet.
 - Attach logs/screenshots/output evidence.
-- Fill a promotion decision card after the first trial.
+- [x] Add a fillable promotion decision card template before the first trial.
+- [ ] Fill the promotion decision card after real motion evidence exists.
 - Patch the draft skill only with observed pitfalls.
 
 ## Change log
 - 2026-06-17: Created package, prototype, infographic, skill draft, loop, and GitHub repo mirror. Template-ready, not validated.
+- 2026-06-17: Added post-trial promotion decision card; ready for the next real motion-asset trial, no validation proof invented.
